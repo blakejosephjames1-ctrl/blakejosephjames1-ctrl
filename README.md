@@ -1,5 +1,5 @@
 # <h1 align="center">Hi I'm Blake</h1>
-<h3 align="center">Cybersecurity Enthusiast | Software Development Enthusiast | Network Security | Web App Security |</h3>
+<h3 align="center">Cybersecurity Enthusiast | Software Development Enthusiast | Network Security | Web App Security </h3>
 <h3 align="center">| Student |</h3>
 
 ### Experience & Achievements
