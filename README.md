@@ -7,7 +7,7 @@
 *Open Learn* Introduction to cyber security completion
 <p> <a href="https://www.open.edu/openlearn/digital-computing/introduction-cyber-security-stay-safe-online/content-section-overview?active-tab=description-tab" rel="noreferrer"> <img src="https://media.navigatr.app/image/badge/original/eb3b00f0151a819c927cc53a6245f294b9b703607d35f9f1c3323b5df3bb9d93.png" alt="python" width="80" height="80"/> </a> </p>
 
-### Currently Working On 
+### Currently Working On  
 A Threat Detection Platform with | log analysis | network monitoring | anomaly detection |
 
 ### Languages and Tools:
