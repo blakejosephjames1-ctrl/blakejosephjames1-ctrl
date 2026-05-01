@@ -22,7 +22,7 @@ A Threat Detection Platform with | log analysis | network monitoring | anomaly d
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="nginx logo"  />
   <img width="12" />
