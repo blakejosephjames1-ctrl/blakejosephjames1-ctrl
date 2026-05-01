@@ -31,3 +31,8 @@ A Threat Detection Platform with | log analysis | network monitoring | anomaly d
   <img src="https://skillicons.dev/icons?i=kali" height="60" alt="kali logo"  />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/blakejosephjames1-ctrl/blakejosephjames1-ctrl/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/blakejosephjames1-ctrl/blakejosephjames1-ctrl/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/blakejosephjames1-ctrl/blakejosephjames1-ctrl/output/pacman-contribution-graph.svg">
+</picture>
